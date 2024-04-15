@@ -1,2 +1,1 @@
-# Deep-Learning-with-Python
-Deep Learning with Python Book SECOND EDITION by FRANÇOIS CHOLLET
+Introduction to TensorFlow For Deep Learning Course By google hosted on udacity
