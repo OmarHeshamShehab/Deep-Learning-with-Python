@@ -16,7 +16,6 @@ This repository contains the materials and code for the **TensorFlow for Deep Le
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Course Overview
@@ -103,10 +102,6 @@ Contributions are welcome! If you'd like to improve the code, add new exercises,
     git push origin feature-branch
     ```
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
